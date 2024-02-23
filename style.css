@@ -1,0 +1,19 @@
+#buttons{
+    text-align: center;
+    
+    /* width: 10px; */
+}
+.active{
+    background-color:aqua;
+}
+button{
+    width: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    margin-top: 100px;
+}
+td,th{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
