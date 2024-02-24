@@ -1,14 +1,14 @@
 #buttons{
-    text-align: center;
-    
-    /* width: 10px; */
+    padding-left: 25%;
 }
 .active{
-    background-color:aqua;
+    background-color:#e9ecef;
 }
 button{
     width: 60px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:transparent;
+    border: #e9ecef;
 }
 
 .container{
