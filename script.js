@@ -34,7 +34,7 @@ request.onload = function(){
     button_div.id = "buttons"
     button_div.className ="pagination"
     let currentpage = 1;
-    let rows = 5;
+    let rows = 10;
     let page_count = Math.ceil(data.length/rows);
     table.append(thead)
     thead.append(thead_row)
